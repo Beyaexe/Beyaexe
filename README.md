@@ -1,31 +1,3 @@
-<style>
-  .typewriter {
-    display: inline-block;
-    overflow: hidden;
-    border-right: 2px solid #d601ce; 
-    white-space: nowrap;
-    letter-spacing: 0.15em;
-    animation: typing 3s steps(30, end), blink 0.5s step-end infinite alternate;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%; /* Ajusta a largura da palavra */
-    }
-  }
-
-  @keyframes blink {
-    from {
-      border-color: transparent;
-    }
-    to {
-      border-color: #d601ce;
-    }
-  }
-</style>
 
 <h1 align="center" style="color: #d601ce;">
   <span class="typewriter">Welcome to my profile! 🤓</span>
