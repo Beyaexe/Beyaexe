@@ -4,7 +4,7 @@
 </h1> 
 
 <p align="center">
-  <img src="/assets/banner.gif" alt="Custom Banner" style="width: 100%; max-width: 900px;" />
+  <img src="/assets/Welcome.gif" alt="Custom Banner" style="width: 100%; max-width: 900px;" />
 </p>
 
 ---
