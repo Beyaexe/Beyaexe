@@ -18,13 +18,24 @@ Meu gosto pessoal é por jogos, estudos, música, cinema e esportes.
 
 
 <h2>My Stack ~</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="start" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="/assets/icon-html5.png" alt="HTML5" width="50" />
   <img src="/assets/icon-css3.png" alt="CSS3" width="50" />
-  <img src="/assets/icon-javascript.png" alt="JavaScript" width="50" />
+  <img src="/assets/icon-bootstrap.png" alt="Bootstrap" width="50" />
+  <img src="/assets/icon-jetpackcompose" alt="Jetpack Compose" width="50" />
+</div>
+
+<div align="start" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="/assets/icon-kotlin.png" alt="Kotlin" width="50" />
   <img src="/assets/icon-java.png" alt="Java" width="50" />
-  <img src="/assets/icon-c.png" alt="Java" width="50" />
+  <img src="/assets/icon-c.png" alt="C" width="50" />
+  <img src="/assets/icon-javascript.png" alt="Javascript" width="50" />  
+  <img src="/assets/icon-net.png" alt=".Net Framework" width="50" />
+</div>
+
+<div align="start" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="/assets/icon-sql.png" alt="SQL" width="50" />
+  <img src="/assets/icon-firebase.png" alt="Firebase" width="50" />
 </div>
 
 
