@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Welcome.gif" alt="Custom Banner" style="width: 100%; max-width: 900px;" />
+  <img src="/assets/WelcomeProfile.gif" alt="Custom Banner" style="width: 100%; max-width: 900px;" />
 </p>
 
 ---
