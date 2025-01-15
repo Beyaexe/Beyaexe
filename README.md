@@ -1,8 +1,3 @@
-
-<h1 align="center" style="color: #d601ce;">
-  <span class="typewriter">Welcome to my profile! 🤓</span>
-</h1> 
-
 <p align="center">
   <img src="/assets/Welcome.gif" alt="Custom Banner" style="width: 100%; max-width: 900px;" />
 </p>
