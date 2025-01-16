@@ -47,7 +47,7 @@ Meu gosto pessoal é por jogos, estudos, música, cinema e esportes.
   </div>
 
   <div >
-    <img src="/assets/beyafunction.png" alt="Coding" width="350px" />
+    <img src="/assets/beyafunction.png" alt="Coding" width="310px" />
   </div>
   
 </div>
