@@ -11,7 +11,7 @@
 
 <h2>Get to know me ~</h2>
 <p>
-Estudante em Análise e Desenvolvimento de Sistemas na UNICSUL. Atualmente trabalho com suporte à informática e estudo programação paralelamente. Tenho mais afinidade com back-end!
+Analista de Sistemas com experiência em desenvolvimento de software, automação de processos, gestão de projetos, integrações entre sistemas e soluções robustas baseadas em Inteligência Artificial.
 <br/>
 Meu gosto pessoal é por jogos, estudos, música, cinema e esportes.
 </p>
